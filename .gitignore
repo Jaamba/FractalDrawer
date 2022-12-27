@@ -1,0 +1,5 @@
+.vs
+FractalDrawer.vcxproj.user
+*.dll
+Release/
+Debug/
